@@ -1,0 +1,364 @@
+<html>
+<head><title>HUB CACHE MEMORY</title>
+<script type="text/javascript">
+
+function validate()
+{
+var c=document.getElementById("ip").value;
+var d=document.getElementById("ip1").value;
+var e=document.getElementById("ip2").value;
+
+ var pattern = /^[0-9\.\/]+$/;
+        if (pattern.test(c)) {
+        window.open("http://"+c+":"+d+"/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+	window.open("http://"+c+":"+d+"/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+        window.open("http://"+c+":"+d+"/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+	window.open("http://"+c+":"+d+"/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+        return true;
+        } 
+ 	alert("Enter IP And PORT");
+            return false;
+}
+
+function aj() {
+    window.open("http://www.java2s.com/","_parent");
+    window.open("http://www.yahoomail.com/","_parent");
+    window.open("http://www.google.com/","_parent");
+	
+	
+}
+function labcorp(){
+window.open("http://10.11.27.212:32024/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32025/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32024/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32025/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32024/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32025/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32024/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32025/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+}
+function NSLIJ(){
+window.open("http://10.11.27.217:8516/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp","_top");
+window.open("http://10.11.27.217:8515/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp","_top");
+window.open("http://10.11.27.218:8516/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp","_top");
+window.open("http://10.11.27.218:8515/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp","_top");
+}
+function memorialhermon(){
+window.open("http://10.232.0.22:8080/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("documenthttp://10.232.0.22:9090/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function quest(){
+window.open("http://10.11.27.212:32070/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32069/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32070/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32069/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function natlab2(){
+setTimeout(function natlab12() {
+window.open("http://10.11.27.95:8042/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8043/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8307/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8308/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8309/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8310/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+},1000);
+setTimeout(function natlab22() {
+window.open("http://10.11.27.96:8042/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8043/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8307/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8308/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8309/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8310/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+},2000);
+
+}
+function natlab(){
+window.open("http://10.11.27.217:8069/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8068/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8069/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8068/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8069/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8068/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8485/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8487/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8214/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8437/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8486/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8488/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8215/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8438/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8069/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8068/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8485/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8487/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8214/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8437/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8486/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8488/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8215/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8438/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function ameritox(){
+window.open("http://10.11.27.217:8289/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8290/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8289/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8290/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function radnat(){
+window.open("http://10.11.27.217:8070/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8071/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8070/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8071/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function bioreference(){
+window.open("http://10.11.27.217:8017/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8016/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8017/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8016/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function tnhca(){
+window.open("http://10.11.27.212:32052/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32066/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32052/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32066/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function mountsinai(){
+window.open("http://10.11.27.217:8138/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8144/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8138/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8144/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function danbury(){
+window.open("http://10.11.27.212:32265/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32266/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32265/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32266/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function flbern(){
+window.open("http://10.11.27.217:8153/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8154/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8153/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8154/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function nyc() {
+window.open("http://10.11.27.95:8001/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8002/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8003/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8004/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8005/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8006/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8007/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8008/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8009/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8001/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8004/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8007/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8008/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8009/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function simmonmed() {
+window.open("http://10.11.27.212:32043/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32044/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32043/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32044/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function envision(){
+window.open("http://10.11.27.212:32155/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32156/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32155/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32156/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function baptist() {
+window.open("http://10.11.27.217:8228/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8227/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8228/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8227/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function morehead() {
+window.open("http://10.11.27.212:32159/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32160/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32159/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32160/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function hlin() {
+window.open("http://10.11.27.217:8497/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8498/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8497/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8498/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function hospnat() {
+window.open("http://10.11.27.217:8302/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8303/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8302/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8303/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function cghn() {
+window.open("http://10.11.27.212:32166/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32167/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32167/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32166/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function qhn() {
+window.open("http://10.11.27.212:32071/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32072/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32071/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32072/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function mlh() {
+window.open("http://10.11.27.212:32315/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32172/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32315/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32172/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function srmc() {
+window.open("http://10.11.27.217:8300/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8301/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8300/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8301/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function caecrm() {
+window.open("http://10.11.27.211:32096/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32095/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32096/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32095/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function northshore() {
+window.open("http://10.11.27.217:8516/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8515/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8516/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8515/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function stlukes() {
+window.open("http://10.11.27.212:32152/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32153/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32152/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32153/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function sjhmc() {
+window.open("http://10.101.100.8:8080/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.101.100.8:8181/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function neqca() {
+window.open("http://10.11.27.211:32234/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.211:32237/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32234/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.212:32237/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function theranos() {
+window.open("http://10.11.27.95:8575/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8577/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8575/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8577/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function medstar() {
+window.open("http://10.11.27.95:8305/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8306/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8305/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8306/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+}
+function baycare() {
+setTimeout (function baycare1(){
+window.open("http://10.11.27.95:8325/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8326/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8325/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8326/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+},1000);
+setTimeout (function baycare2(){
+window.open("http://10.11.27.95:8325/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.95:8326/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8325/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.96:8326/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+},2000);
+}
+
+function carolina() {
+setTimeout (function carolina1(){
+window.open("http://10.11.27.217:8260/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8261/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8260/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8261/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+},1000);
+setTimeout (function carolina2(){
+window.open("http://10.11.27.217:8260/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8261/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8260/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8261/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+},2000);
+}
+
+function qdx() {
+setTimeout(function qdx1(){
+window.open("http://10.11.27.217:8087/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8086/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8087/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8086/mobiledoc/jsp/catalog/resetInterfaceCacheManager.jsp");
+},1000);
+setTimeout(function qdx2(){
+window.open("http://10.11.27.217:8087/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.217:8086/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8087/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+window.open("http://10.11.27.218:8086/mobiledoc/jsp/catalog/xml/resetInterfaceCacheManager.jsp");
+},2000);
+}
+
+</script>
+</head>
+
+<body bgcolor="">
+<center><p><H1>HUB CACHE MEMORY CLEAR LINK</H1></p></center>
+<hr>
+<form>
+<table border="0" width=100%>
+<tr><td><top>
+<table td border= 1px solid black>
+<tr rowspan="4"><td><center>URL not in the list?<br>Enter the IP with PORT in the below textbox</td></tr>
+<tr><td><center><label>IP</label>&nbsp&nbsp&nbsp&nbsp<input type="text" placeholder="eg.10.12.28.222" id="ip"></center><br>
+&nbsp&nbsp&nbsp&nbsp<label>PORT1</label>&nbsp&nbsp<input type="text" placeholder="eg.4546" id="ip1"><br>
+&nbsp&nbsp&nbsp&nbsp<label>PORT2</label>&nbsp&nbsp<input type="text" placeholder="eg.4646" id="ip2"><br>
+<tr><td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="reset" value="clear">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="button" value="submit" onclick="validate()"></td></tr>
+<tr rowspan="4"><td><center>Don't know the IP and PORT?<br><center><a href="https://superhub.eclinicalweb.com/mobiledoc/jsp/HubMonitoring.action" target="_blank">Click here</a><center></td></tr>
+<tr><td><div align="right"><input type="button" value="close" onclick="window.close()"></div></td></tr>
+</td></center></table>
+<td><align="left">
+<table td border= 1px solid black>
+<tr><th><h3>HUB NAME</h3></th><th><h3>Click to clear CAHCE</h3></th></tr>
+<tr><td><center><label>Test</label></center></td><td><center><input type=button value="Test" onclick="aj()"></center></td></tr>
+<tr><td><center><label>Labcorp</label></center></td><td><center><input type=button value="Labcorp" onclick="labcorp()"></center></td></tr>
+<tr><td><center><label>NSLIJ</label></center></td><td><center><input type=button value="NSLIJ" onclick="NSLIJ()"></center></td></tr>
+<tr><td><center><label>Memorial Hermon</label></center></td><td><center><input type=button value="Memorial Hermon" onclick="memorialhermon()"></center></td></tr>
+<tr><td><center><label>Quest</label></center></td><td><center><input type=button value="Quest" onclick="quest()"></center></td></tr>
+<tr><td><center><label>NATLAB2</label></center></td><td><center><input type=button value="NATLAB2" onclick="natlab2()"></center></td></tr>
+<tr><td><center><label>NATLAB</label></center></td><td><center><input type=button value="NATLAB" onclick="natlab()"></center></td></tr>
+<tr><td><center><label>Ameritox</label></center></td><td><center><input type=button value="Ameritox" onclick="ameritox()"></center></td></tr>
+<tr><td><center><label>RADNAT</label></center></td><td><center><input type=button value="RADNAT" onclick="radnat()"></center></td></tr>
+<tr><td><center><label>BioReference (NJBIOR)</label></center></td><td><center><input type=button value="BioReference (NJBIOR)" onclick="bioreference()"></center></td></tr>
+<tr><td><center><label>TNHCA</label></center></td><td><center><input type=button value="TNHCA" onclick="tnhca()"></center></td></tr>
+<tr><td><center><label>Mount Sinai</label></center></td><td><center><input type=button value="Mount Sinai" onclick="mountsinai()"></center></td></tr>
+<tr><td><center><label>Danbury</label></center></td><td><center><input type=button value="Danbury" onclick="danbury()"></center></td></tr>
+<tr><td><center><label>Flbern</label></center></td><td><center><input type=button value="Flbern" onclick="flbern()"></center></td></tr>
+<tr><td><center><label>NYC</label></center></td><td><center><input type=button value="NYC" onclick="nyc()"></center></td></tr>
+<tr><td><center><label>Simmonmed</label></center></td><td><center><input type=button value="Simmonmed" onclick="simmonmed()"></center></td></tr>
+<tr><td><center><label>Envision</label></center></td><td><center><input type=button value="Envision" onclick="envision()"></center></td></tr>
+<tr><td><center><label>Baptist</label></center></td><td><center><input type=button value="Baptist" onclick="baptist()"></center></td></tr>
+<tr><td><center><label>MoreHead</label></center></td><td><center><input type=button value="MoreHead" onclick="morehead()"></center></td></tr>
+<tr><td><center><label>HLIN</label></center></td><td><center><input type=button value="HLIN" onclick="hlin()"></center></td></tr>
+<tr><td><center><label>HOSPNAT</label></center></td><td><center><input type=button value="HOSPNAT" onclick="hospnat()"></center></td></tr>
+<tr><td><center><label>CGHN</label></center></td><td><center><input type=button value="CGHN" onclick="cghn()"></center></td></tr>
+<tr><td><center><label>QHN</label></center></td><td><center><input type=button value="QHN" onclick="qhn()"></center></td></tr>
+<tr><td><center><label>MLH</label></center></td><td><center><input type=button value="MLH" onclick="mlh()"></center></td></tr>
+<tr><td><center><label>SRMC</label></center></td><td><center><input type=button value="SRMC" onclick="srmc()"></center></td></tr>
+<tr><td><center><label>CAECRM</label></center></td><td><center><input type=button value="CAECRM" onclick="caecrm()"></center></td></tr>
+<tr><td><center><label>North Shore</label></center></td><td><center><input type=button value="North Shore" onclick="northshore()"></center></td></tr>
+<tr><td><center><label>St-Lukes</label></center></td><td><center><input type=button value="St-Lukes" onclick="stlukes()"></center></td></tr>
+<tr><td><center><label>SJHMC</label></center></td><td><center><input type=button value="SJHMC" onclick="sjhmc()"></center></td></tr>
+<tr><td><center><label>NEQCA</label></center></td><td><center><input type=button value="NEQCA" onclick="neqca()"></center></td></tr>
+<tr><td><center><label>Theranos</label></center></td><td><center><input type=button value="Theranos" onclick="theranos()"></center></td></tr>
+<tr><td><center><label>Medstar</label></center></td><td><center><input type=button value="Medstar" onclick="medstar()"></center></td></tr>
+<tr><td><center><label>Baycare</label></center></td><td><center><input type=button value="Baycare" onclick="baycare()"></center></td></tr>
+<tr><td><center><label>Carolina</label></center></td><td><center><input type=button value="Carolina" onclick="carolina()"></center></td></tr>
+<tr><td><center><label>QDX</label></center></td><td><center><input type=button value="QDX" onclick="qdx()"></center></td></tr></table>
+
+</table>
+</form>
+</body>
+</html>
